@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ACS1320-React-Final-Project/static/css/main.b174f613.css",
-    "main.js": "/ACS1320-React-Final-Project/static/js/main.3c027519.js",
-    "static/js/787.e7ef2754.chunk.js": "/ACS1320-React-Final-Project/static/js/787.e7ef2754.chunk.js",
-    "index.html": "/ACS1320-React-Final-Project/index.html",
-    "main.b174f613.css.map": "/ACS1320-React-Final-Project/static/css/main.b174f613.css.map",
-    "main.3c027519.js.map": "/ACS1320-React-Final-Project/static/js/main.3c027519.js.map",
-    "787.e7ef2754.chunk.js.map": "/ACS1320-React-Final-Project/static/js/787.e7ef2754.chunk.js.map"
+    "main.css": "/alexafinal/static/css/main.b174f613.css",
+    "main.js": "/alexafinal/static/js/main.38be2f35.js",
+    "static/js/787.e7ef2754.chunk.js": "/alexafinal/static/js/787.e7ef2754.chunk.js",
+    "index.html": "/alexafinal/index.html",
+    "main.b174f613.css.map": "/alexafinal/static/css/main.b174f613.css.map",
+    "main.38be2f35.js.map": "/alexafinal/static/js/main.38be2f35.js.map",
+    "787.e7ef2754.chunk.js.map": "/alexafinal/static/js/787.e7ef2754.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b174f613.css",
-    "static/js/main.3c027519.js"
+    "static/js/main.38be2f35.js"
   ]
 }
